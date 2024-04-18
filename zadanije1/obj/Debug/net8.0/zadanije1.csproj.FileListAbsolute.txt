@@ -1,0 +1,14 @@
+C:\Users\Александр\source\repos\laba 8\zadanije1\bin\Debug\net8.0\zadanije1.exe
+C:\Users\Александр\source\repos\laba 8\zadanije1\bin\Debug\net8.0\zadanije1.deps.json
+C:\Users\Александр\source\repos\laba 8\zadanije1\bin\Debug\net8.0\zadanije1.runtimeconfig.json
+C:\Users\Александр\source\repos\laba 8\zadanije1\bin\Debug\net8.0\zadanije1.dll
+C:\Users\Александр\source\repos\laba 8\zadanije1\bin\Debug\net8.0\zadanije1.pdb
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.AssemblyInfo.cs
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.dll
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\refint\zadanije1.dll
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.pdb
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\zadanije1.genruntimeconfig.cache
+C:\Users\Александр\source\repos\laba 8\zadanije1\obj\Debug\net8.0\ref\zadanije1.dll
